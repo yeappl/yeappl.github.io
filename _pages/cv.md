@@ -27,6 +27,7 @@ Experience
   * Expertise in data-driven policy formulation, continuing education and training (CET) programs, industry & stakeholder engagement, and cross-agency strategic collaboration.
 
 
+<!--
 Skills
 ======
 * Skill 1
@@ -57,3 +58,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--!>
