@@ -11,17 +11,16 @@ redirect_from:
 
 Education
 ======
-* PhD in Oncology, University of Cambridge, United Kingdom
+* PhD in Oncology, University of Cambridge, UK
 * Postgrad Diploma in Education, National Institute of Education, Singapore
-* MPhil in Physics, University of Cambridge, United Kingdom
-* BSc in Physics with Theoretical Physics, Imperial College London, United Kingdom
+* MPhil in Physics, University of Cambridge, UK
+* BSc in Physics with Theoretical Physics, Imperial College London, UK
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - Present: Medical Physicist
+  * Division of Radiation Oncology, National Cancer Centre Singapore
+  * Experienced in radiotherapy treatment planning and commissioning of medical technologies (e.g. linear accelerators, AI softwares), with a research interest in AI-guided adaptive radiotherapy
 
 * Fall 2015: Research Assistant
   * GitHub University
