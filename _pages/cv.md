@@ -28,5 +28,9 @@ Experience
 
 Honors & Awards
 ======
-* Gates Cambridge Scholarship, Bill & Melinda Gates Foundation
+* 2024: NUS Development Grant &  Young NUS Fellowship, National University of Singapore
+* 2024: Turing Enrichment Scheme Award, The Alan Turing Institute UK
+* 2023: Gates Cambridge Scholarship, Bill & Melinda Gates Foundation
+* 2023: Charter Postgraduate Award, Homerton College Cambridge
+* 2012: Education Merit Scholarship, Ministry of Education Singapore
 
