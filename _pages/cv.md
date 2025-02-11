@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Oncology, University of Cambridge, United Kingdom
+* Postgrad Diploma in Education, National Institute of Education, Singapore
+* MPhil in Physics, University of Cambridge, United Kingdom
+* BSc in Physics with Theoretical Physics, Imperial College London, United Kingdom
 
 Work experience
 ======
