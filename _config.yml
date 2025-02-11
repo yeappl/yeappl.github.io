@@ -22,7 +22,7 @@ repository               : "yeappl/yeappl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile1.jpg"
   name             : "Ping Lin Yeap"
   pronouns         : # example: "she/her"  
   bio              : "I'm interested in research at the intersection of medicine, physics, and machine learning. "
