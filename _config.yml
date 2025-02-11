@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ping Lin Yeap"
+title                    : "Ping Lin Yeap / Personal Site"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
