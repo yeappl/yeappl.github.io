@@ -16,21 +16,16 @@ Education
 * MPhil in Physics, University of Cambridge, UK
 * BSc in Physics with Theoretical Physics, Imperial College London, UK
 
-Work experience
+Experience
 ======
 * 2022 - Present: Medical Physicist
   * Division of Radiation Oncology, National Cancer Centre Singapore
   * Experienced in radiotherapy treatment planning and commissioning of medical technologies (e.g. linear accelerators, AI softwares), with a research interest in AI-guided adaptive radiotherapy
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - 2022: Senior Manager
+  * Higher Education Group, Ministry of Education Singapore
+  * Expertise in data-driven policy formulation, workforce education programs, industry & stakeholder engagement, staffing
+ of senior management and political office holders, and cross-agency strategic collaboration.
   
 Skills
 ======
