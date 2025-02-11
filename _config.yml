@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ping Lin Yeap"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "I'm interested in research at the intersection of medicine, physics, and machine learning. "
+  location         : "Cambridge, UK"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
