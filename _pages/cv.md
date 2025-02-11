@@ -24,9 +24,9 @@ Experience
 
 * 2020 - 2022: Senior Manager
   * Higher Education Group, Ministry of Education Singapore
-  * Expertise in data-driven policy formulation, workforce education programs, industry & stakeholder engagement, staffing
- of senior management and political office holders, and cross-agency strategic collaboration.
-  
+  * Expertise in data-driven policy formulation, continuing education and training (CET) programs, industry & stakeholder engagement, and cross-agency strategic collaboration.
+
+
 Skills
 ======
 * Skill 1
