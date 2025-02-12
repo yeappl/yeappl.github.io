@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Oncology, University of Cambridge, UK
+* PhD in Computational Oncology, University of Cambridge, UK
 * Postgrad Diploma in Education, National Institute of Education, Singapore
-* MPhil in Physics, University of Cambridge, UK
+* MPhil in Computational Physics, University of Cambridge, UK
 * BSc in Physics with Theoretical Physics, Imperial College London, UK
 
 Experience
