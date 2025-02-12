@@ -3,7 +3,7 @@ title: "A treatment-site-specific evaluation of commercial synthetic computed to
 collection: publications
 category: manuscripts
 permalink: 
-excerpt: 'Authors: P L Yeap, Y M Wong, K H Lee, C W Y Koh, K S Lew, C G A Chua, A Wibawa, Z Master, J C L Lee, S Y Park, H Q Tan'
+excerpt: 'Authors: <u>P L Yeap</u>, <ins>Y M Wong</ins>, K H Lee, C W Y Koh, K S Lew, C G A Chua, A Wibawa, Z Master, J C L Lee, S Y Park, H Q Tan'
 date: 2024-07-01
 venue: 'Physics and Imaging in Radiation Oncology'
 slidesurl: 
