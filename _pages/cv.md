@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * PhD in Computational Oncology, University of Cambridge, UK
+* Master of Business Administration (MBA), Quantic School of Business and Technology
 * Postgrad Diploma in Education, National Institute of Education, Singapore
 * MPhil in Computational Physics, University of Cambridge, UK
 * BSc in Physics with Theoretical Physics, Imperial College London, UK
