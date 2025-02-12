@@ -28,9 +28,12 @@ Experience
 
 Honors & Awards
 ======
-* 2024: NUS Development Grant &  Young NUS Fellowship, National University of Singapore
-* 2024: Turing Enrichment Scheme Award, The Alan Turing Institute UK
-* 2023: Gates Cambridge Scholarship, Bill & Melinda Gates Foundation
-* 2023: Charter Postgraduate Award, Homerton College Cambridge
-* 2012: Education Merit Scholarship, Ministry of Education Singapore
+* NUS Development Grant &  Young NUS Fellowship, National University of Singapore
+* Turing Enrichment Scheme Award, The Alan Turing Institute UK
+* Gates Cambridge Scholarship (PhD), Bill & Melinda Gates Foundation
+* Charter Postgraduate Award, Homerton College Cambridge
+* Education Merit Scholarship, Ministry of Education Singapore
 
+Certifications
+======
+* International Medical Physics Certification Board (IMPCB) - Part 1
