@@ -2,12 +2,11 @@
 title: "A treatment-site-specific evaluation of commercial synthetic computed tomography solutions for proton therapy"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-authors: 'P L Yeap, '
+permalink: 
+excerpt: 'Authors: P L Yeap, Y M Wong, K H Lee, C W Y Koh, K S Lew, C G A Chua, A Wibawa, Z Master, J C L Lee, S Y Park, H Q Tan'
 date: 2024-07-01
 venue: 'Physics and Imaging in Radiation Oncology'
-slidesurl: ''
+slidesurl: 
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S240563162400109X'
 ---
 
