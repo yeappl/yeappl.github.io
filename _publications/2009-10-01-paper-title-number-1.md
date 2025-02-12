@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "A treatment-site-specific evaluation of commercial synthetic computed tomography solutions for proton therapy"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
