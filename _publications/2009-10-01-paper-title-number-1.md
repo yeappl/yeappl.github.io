@@ -19,14 +19,14 @@ Highlights
 
 Abstract
 =====
-Background and purpose
+Background and purpose:
 Despite the superior dose conformity of proton therapy, the dose distribution is sensitive to daily anatomical changes, which can affect treatment accuracy. This study evaluated the dose recalculation accuracy of two synthetic computed tomography (sCT) generation algorithms in a commercial treatment planning system.
 
-Materials and methods
+Materials and methods:
 The evaluation was conducted for head-and-neck, thorax-and-abdomen, and pelvis sites treated with proton therapy. Thirty patients with two cone-beam computed tomography (CBCT) scans each were selected. The sCT images were generated from CBCT scans using two algorithms, Corrected CBCT (corrCBCT) and Virtual CT (vCT). Dose recalculations were performed based on these images for comparison with “ground truth” deformed CTs.
 
-Results
+Results:
 The choice of algorithm influenced dose recalculation accuracy, particularly in high dose regions. For head-and-neck cases, the corrCBCT method showed closer agreement with the “ground truth”, while for thorax-and-abdomen and pelvis cases, the vCT algorithm yielded better results (mean percentage dose discrepancy of 0.6 %, 1.3 % and 0.5 % for the three sites, respectively, in the high dose region). Head-and-neck and pelvis cases exhibited excellent agreement in high dose regions (2 %/2 mm gamma passing rate >98 %), while thorax-and-abdomen cases exhibited the largest differences, suggesting caution in sCT algorithm usage for this site. Significant systematic differences were observed in the clinical target volume and organ-at-risk doses in head-and-neck and pelvis cases, highlighting the importance of using the correct algorithm.
 
-Conclusions
+Conclusions:
 This study provided treatment site-specific recommendations for sCT algorithm selection in proton therapy. The findings offered insights for proton beam centers implementing adaptive radiotherapy workflows.
