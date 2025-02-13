@@ -1,10 +1,10 @@
 ---
 title: "Teaching assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Medical Physics"
 permalink: /teaching/2024-medical-physics-teaching
 venue: "Department of Physics, University of Cambridge"
-date: 2024-01-01
+date: 2024 - 2025
 location: "United Kingdom"
 ---
 
