@@ -2,7 +2,7 @@
 title: "Project mentor"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-ntu-fyp-1
 venue: "Department of Physics, Nanyang Technological University"
 date: "2022 - 2023"
 location: "Singapore"
