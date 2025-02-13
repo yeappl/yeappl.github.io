@@ -19,13 +19,8 @@ Education
 
 Experience
 ======
-* 2022 - Present: Medical Physicist
-  * Division of Radiation Oncology, National Cancer Centre Singapore
-  * Experienced in radiotherapy treatment planning and commissioning of medical technologies (e.g. linear accelerators, AI softwares), with a research interest in AI-guided adaptive radiotherapy
-
-* 2020 - 2022: Senior Manager
-  * Higher Education Group, Ministry of Education Singapore
-  * Expertise in data-driven policy formulation, continuing education and training (CET) programs, industry & stakeholder engagement, and cross-agency strategic collaboration.
+* 2022 - Present: Medical Physicist, Division of Radiation Oncology, National Cancer Centre Singapore
+* 2020 - 2022: Senior Manager, Higher Education Group, Ministry of Education Singapore
 
 Honors & Awards
 ======
