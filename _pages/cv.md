@@ -22,6 +22,11 @@ Experience
 * 2022 - Present: Medical Physicist, Division of Radiation Oncology, National Cancer Centre Singapore
 * 2020 - 2022: Senior Manager, Higher Education Group, Ministry of Education Singapore
 
+Grants
+======
+* Co-Principal Investigator, UKRI Medical Research Council (MRC) Confidence in Concept grant, Feb - Oct 2025, £50 000
+* Principal Investigator, Cancer Research UK (CRUK) Cancer Tech Accelerator grant, Oct 2024 - Sep 2025, £70 000
+
 Honors & Awards
 ======
 * NUS Development Grant &  Young NUS Fellowship, National University of Singapore
