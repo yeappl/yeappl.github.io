@@ -8,7 +8,6 @@ date: 2024-01-01
 location: "United Kingdom"
 ---
 
-2024 - 2025
-Conducted Medical Physics course supervisions for Part III (Master’s level) students.
+2024 - 2025: Conducted Medical Physics course supervisions for Part III (Master’s level) students.
 
 
