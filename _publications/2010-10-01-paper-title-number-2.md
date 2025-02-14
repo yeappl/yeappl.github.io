@@ -1,14 +1,22 @@
 ---
-title: "Paper Title Number 2"
+title: "Proton beam range and charge verification using multilayer Faraday collector"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Authors: <u>Ping Lin Yeap</u>, Kah Seng Lew, Wei YC Koh, Clifford GA Chua, Andrew Wibawa, Zubin Master, James CL Lee, Sung Yong Park, Hong Qi Tan'
+date: 2024-07-25
+venue: 'Technology in Cancer Research & Treatment'
+slidesurl: 
+paperurl: 'https://doi.org/10.1177/15330338241262610'
+citation: 
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract
+
+Purpose: A daily quality assurance (QA) check in proton therapy is ensuring that the range of each proton beam energy in water is accurate to 1 mm. This is important for ensuring that the tumor is adequately irradiated while minimizing damage to surrounding healthy tissue. It is also important to verify the total charge collected against the beam model. This work proposes a time-efficient method for verifying the range and total charge of proton beams at different energies using a multilayer Faraday collector (MLFC).
+
+Methods: We used an MLFC-128-250 MeV comprising 128 layers of thin copper foils separated by thin insulating KaptonTM layers. Protons passing through the collector induce a charge on the metallic foils, which is integrated and measured by a multichannel electrometer. The charge deposition on the foils provides information about the beam range.
+
+Results: Our results show that the proton beam range obtained using MLFC correlates closely with the range obtained from commissioning water tank measurements for all proton energies. Upon applying a range calibration factor, the maximum deviation is 0.4 g/cm2. The MLFC range showed no dependence on the number of monitor units and the source-to-surface distance. Range measurements collected over multiple weeks exhibited stability. The total charge collected agrees closely with the theoretical charge from the treatment planning system beam model for low- and mid-range energies.
+
+Conclusions: We have calibrated and commissioned the use of the MLFC to easily verify range and total charge of proton beams. This tool will improve the workflow efficiency of the proton QA.
