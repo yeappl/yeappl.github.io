@@ -8,4 +8,4 @@ date: 2022-01-01
 location: "Singapore"
 ---
 
-2022 - 2023: Mentor for undergraduate interns at National Cancer Centre Singapore.
+Mentor for undergraduate interns at National Cancer Centre Singapore.
