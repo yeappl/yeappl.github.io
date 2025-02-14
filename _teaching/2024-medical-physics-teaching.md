@@ -4,7 +4,7 @@ collection: teaching
 type: "Medical Physics"
 permalink: /teaching/2024-medical-physics-teaching
 venue: "Department of Physics, University of Cambridge"
-date: 
+date: 2024-01-01
 location: "United Kingdom"
 ---
 
