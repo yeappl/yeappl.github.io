@@ -15,7 +15,27 @@ My research focuses on the application of medical physics and machine learning f
 | Header      | Title       |
 | Paragraph   | Text        |
 
+<div style="display: flex; justify-content: center; text-align: center;">
 
+<div style="margin: 10px;">
+    <img src="image1.jpg" alt="Image 1" width="200"/>
+    <h3>Title 1</h3>
+    <p>Subtitle 1</p>
+</div>
+
+<div style="margin: 10px;">
+    <img src="image2.jpg" alt="Image 2" width="200"/>
+    <h3>Title 2</h3>
+    <p>Subtitle 2</p>
+</div>
+
+<div style="margin: 10px;">
+    <img src="image3.jpg" alt="Image 3" width="200"/>
+    <h3>Title 3</h3>
+    <p>Subtitle 3</p>
+</div>
+
+</div>
 
 
 
