@@ -18,8 +18,8 @@ My research focuses on the application of medical physics and machine learning f
 </div>
 
 <div style="margin: 10px;">
-    <h3>Title 2</h3>
-    <p>Subtitle 2</p>
+    <h3>Medical imaging</h3>
+    <p>Enhancing quality, accuracy, and reliability of acquired medical images</p>
 </div>
 
 <div style="margin: 10px;">
