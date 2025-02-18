@@ -23,9 +23,8 @@ My research focuses on the application of medical physics and machine learning f
 </div>
 
 <div style="margin: 10px;">
-    <img src="image3.jpg" alt="Image 3" width="200"/>
-    <h3>Title 3</h3>
-    <p>Subtitle 3</p>
+    <h3>Governance</h3>
+    <p>Ethics and governance of AI applications in health and medicine</p>
 </div>
 
 </div>
