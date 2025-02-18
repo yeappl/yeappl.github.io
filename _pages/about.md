@@ -10,15 +10,10 @@ redirect_from:
 My research focuses on the application of medical physics and machine learning for adaptive radiotherapy and medical imaging.
 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 <div style="display: flex; justify-content: center; text-align: center;">
 
 <div style="margin: 10px;">
-    <img src="image1.jpg" alt="Image 1" width="200"/>
+    <img src="accuray-SKLMuWsxi_w-unsplash.jpg" alt="Image 1" width="200"/>
     <h3>Title 1</h3>
     <p>Subtitle 1</p>
 </div>
