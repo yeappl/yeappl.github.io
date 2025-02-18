@@ -26,8 +26,8 @@ My research focuses on the application of medical physics and machine learning f
 
 <div style="flex: 1; margin: 10px;">
     <img src="https://images.unsplash.com/photo-1666214280577-5f90bc36be92?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Image 3" width="200"/>
-    <h3>Medical device development</h3>
-    <p>Translating research innovations into clinical applications through development of software-as-medical-devices</p>
+    <h3>Medical devices</h3>
+    <p>Translating research innovations into clinical applications through development of software-as-medical-device (SaMD) prototypes</p>
 </div>
 
 </div>
