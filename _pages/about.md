@@ -14,7 +14,7 @@ My research focuses on the application of medical physics and machine learning f
 
 <div style="margin: 10px;">
     <img src="accuray-SKLMuWsxi_w-unsplash.jpg" alt="Image 1" width="200"/>
-    <h3>Title 1</h3>
+    <h3>Adaptive radiotherapy</h3>
     <p>Subtitle 1</p>
 </div>
 
