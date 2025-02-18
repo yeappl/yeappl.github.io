@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ping Lin Yeap's Personal Site"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,10 @@ redirect_from:
 My research focuses on the application of medical physics and machine learning for adaptive radiotherapy and medical imaging.
 
 
-
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 
 
