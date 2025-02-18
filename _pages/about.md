@@ -10,19 +10,19 @@ redirect_from:
 My research focuses on the application of medical physics and machine learning for adaptive radiotherapy and medical imaging.
 
 
-<div style="display: flex; justify-content: center; text-align: center;">
+<div style="display: flex; justify-content: space-evenly; text-align: center;">
 
-<div style="margin: 10px;">
+<div style="flex: 1; margin: 10px;">
     <h3>Adaptive radiotherapy</h3>
     <p>Optimising radiotherapy treatment plans based on periodic monitoring of patient's physiological and anatomical changes</p>
 </div>
 
-<div style="margin: 10px;">
+<div style="flex: 1; margin: 10px;">
     <h3>Medical imaging</h3>
     <p>Enhancing quality, accuracy, and reliability of acquired medical images</p>
 </div>
 
-<div style="margin: 10px;">
+<div style="flex: 1; margin: 10px;">
     <h3>Governance</h3>
     <p>Ethics and governance of AI applications in health and medicine</p>
 </div>
