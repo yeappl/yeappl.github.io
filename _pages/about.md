@@ -13,13 +13,11 @@ My research focuses on the application of medical physics and machine learning f
 <div style="display: flex; justify-content: center; text-align: center;">
 
 <div style="margin: 10px;">
-    <img src="accuray-SKLMuWsxi_w-unsplash.jpg" alt="Image 1" width="200"/>
     <h3>Adaptive radiotherapy</h3>
-    <p>Subtitle 1</p>
+    <p>Optimising radiotherapy treatment plans based on periodic monitoring of patient's physiological and anatomical changes</p>
 </div>
 
 <div style="margin: 10px;">
-    <img src="image2.jpg" alt="Image 2" width="200"/>
     <h3>Title 2</h3>
     <p>Subtitle 2</p>
 </div>
