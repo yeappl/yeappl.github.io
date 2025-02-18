@@ -30,8 +30,8 @@ Grants
 Honors & Awards
 ======
 * NUS Development Grant &  Young NUS Fellowship, National University of Singapore
-* Turing Enrichment Scheme Award, The Alan Turing Institute UK
-* Gates Cambridge Scholarship (PhD), Bill & Melinda Gates Foundation
+* [Turing Enrichment Scheme Award](https://www.turing.ac.uk/people/doctoral-students/ping-lin-yeap), The Alan Turing Institute UK
+* [Gates Cambridge Scholarship (PhD)](https://www.gatescambridge.org/about/news/towards-a-netflix-for-cancer-treatment/), Bill & Melinda Gates Foundation
 * Charter Postgraduate Award, Homerton College Cambridge
 * Education Merit Scholarship, Ministry of Education Singapore
 
