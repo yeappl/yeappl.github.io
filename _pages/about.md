@@ -19,6 +19,7 @@ My research focuses on the application of medical physics and machine learning f
 </div>
 
 <div style="flex: 1; margin: 10px;">
+    <img src="https://images.unsplash.com/photo-1631563019676-dade0dbdb8fc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Image 2" width="200"/>
     <h3>Medical imaging</h3>
     <p>Enhancing quality, accuracy, and reliability of acquired medical images</p>
 </div>
