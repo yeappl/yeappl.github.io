@@ -21,13 +21,13 @@ My research focuses on the application of medical physics and machine learning f
 <div style="flex: 1; margin: 10px;">
     <img src="https://images.unsplash.com/photo-1631563019676-dade0dbdb8fc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Image 2" width="200"/>
     <h3>Medical imaging</h3>
-    <p>Enhancing quality, accuracy, and reliability of acquired medical images</p>
+    <p>Enhancing quality, accuracy, and reliability of acquired medical images with artificial intelligence</p>
 </div>
 
 <div style="flex: 1; margin: 10px;">
     <img src="https://images.unsplash.com/photo-1666214280577-5f90bc36be92?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Image 3" width="200"/>
-    <h3>AI in medicine</h3>
-    <p>Improving safety and efficiency of medical workflows through artificial intelligence</p>
+    <h3>Medical device development</h3>
+    <p>Translating research innovations into clinical applications through development of software-as-medical-devices</p>
 </div>
 
 </div>
