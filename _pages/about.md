@@ -9,7 +9,8 @@ redirect_from:
 
 My research focuses on the application of medical physics and machine learning for adaptive radiotherapy and medical imaging.
 
-
+Research areas:
+=====
 <div style="display: flex; justify-content: space-evenly; text-align: center;">
 
 <div style="flex: 1; margin: 10px;">
