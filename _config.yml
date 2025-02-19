@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile1.jpg"
   name             : "Ping Lin Yeap"
-  pronouns         : "__he/him__"  
+  pronouns         : <i>"he/him"</i>  
   bio              : "PhD researcher & Gates Cambridge Scholar"
   location         : "Cambridge, UK"
   employer         : "University of Cambridge"
