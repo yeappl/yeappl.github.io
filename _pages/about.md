@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm obtaining my PhD in Computational Oncology as a Gates Cambridge Scholar at the University of Cambridge, under the supervision of Prof Rajesh Jena. I'm interested in research at the intersection of medicine, physics, and machine learning.
+I'm obtaining my PhD in Computational Oncology as a [Gates Cambridge Scholar](https://www.cam.ac.uk/stories/gates-cambridge-class-of-2023) at the University of Cambridge, under the supervision of [Prof Rajesh Jena](https://www.cam.ac.uk/stories/cambridge-first-professor-ai-cancer-radiotherapy). I'm interested in research at the intersection of medicine, physics, and machine learning.
 <br>
 
 My research focuses on the application of medical physics and machine learning for adaptive radiotherapy and medical imaging.
