@@ -12,7 +12,7 @@ redirect_from:
 Education
 -----
 * PhD in Computational Oncology, University of Cambridge, UK
-* [Master of Business Administration (MBA)](https://www.parchment.com/u/award/ab5c6fb6db1f8977e93317e54b938bdf), Quantic School of Business and Technology
+* Master of Business Administration (MBA), Quantic School of Business and Technology
 * Postgraduate Diploma in Education (PGDE), National Institute of Education, Singapore
 * MPhil in Computational Physics, University of Cambridge, UK
 * BSc in Physics with Theoretical Physics, Imperial College London, UK
@@ -30,7 +30,7 @@ Grants
 Honors & Awards
 -----
 * NUS Development Grant &  Young NUS Fellowship, National University of Singapore
-* [Turing Enrichment Scheme Award](https://www.turing.ac.uk/people/doctoral-students/ping-lin-yeap), The Alan Turing Institute UK
+* Turing Enrichment Scheme Award, The Alan Turing Institute UK
 * [Gates Cambridge Scholarship (PhD)](https://www.gatescambridge.org/about/news/towards-a-netflix-for-cancer-treatment/), Bill & Melinda Gates Foundation
 * Charter Postgraduate Award, Homerton College Cambridge
 * Education Merit Scholarship, Ministry of Education Singapore
