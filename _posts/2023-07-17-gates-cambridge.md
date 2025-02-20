@@ -8,6 +8,6 @@ tags:
   - cambridge
 ---
 
-I spoke about my research in an interview with Gates Cambridge. Read more on the [Gates Cambridge website](https://www.gatescambridge.org/about/news/towards-a-netflix-for-cancer-treatment/). 
+Scholar-Elect Ping Lin Yeap talks about how his PhD will investigate the role of machine and deep learning in reducing errors in cancer scans. Read more on the [Gates Cambridge website](https://www.gatescambridge.org/about/news/towards-a-netflix-for-cancer-treatment/). 
 
 <img width="461" alt="image" src="https://github.com/user-attachments/assets/4020a288-13ac-4fa6-bef8-0a29e3ea11e4" />
