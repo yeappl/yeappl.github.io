@@ -24,8 +24,8 @@ Experience
 
 Grants
 -----
-* Co-Principal Investigator, UKRI Medical Research Council (MRC) Confidence in Concept grant, Feb - Oct 2025, £50 000
-* Principal Investigator, Cancer Research UK (CRUK) Cancer Tech Accelerator grant, Oct 2024 - Sep 2025, £70 000
+* Co-PI, UKRI Medical Research Council (MRC) Confidence in Concept grant, Feb - Oct 2025, £50 000
+* PI, Cancer Research UK (CRUK) Cancer Tech Accelerator grant, Oct 2024 - Sep 2025, £70 000
 
 Honors & Awards
 -----
