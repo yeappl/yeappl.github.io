@@ -33,6 +33,8 @@ Honors & Awards
 * Turing Enrichment Scheme Award, The Alan Turing Institute UK
 * Gates Cambridge Scholarship (PhD), Bill & Melinda Gates Foundation
 * Charter Postgraduate Award, Homerton College Cambridge
+* Research Publication Award, National Cancer Centre Singapore
+* Outstanding Contribution Awards, Ministry of Education Singapore
 * Education Merit Scholarship, Ministry of Education Singapore
 
 Certifications
