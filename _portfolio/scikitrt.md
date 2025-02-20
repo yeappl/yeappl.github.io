@@ -1,6 +1,6 @@
 ---
 title: "Scikit-rt"
-excerpt: "Scikit-rt is a Python toolkit for loading, plotting, and analysing radiotherapy data in DICOM and NIfTI formats. It includes image registration via elastix and NiftyReg, single- and multi-atlas segmentation, and region-of-interest (ROI) comparisons. <br/><img src="">"
+excerpt: "Scikit-rt is a Python toolkit for loading, plotting, and analysing radiotherapy data in DICOM and NIfTI formats. It includes image registration via elastix and NiftyReg, single- and multi-atlas segmentation, and region-of-interest (ROI) comparisons."
 collection: portfolio
 ---
 
