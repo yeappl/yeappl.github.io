@@ -8,5 +8,5 @@ tags:
   - cambridge
 ---
 
-Read about my interview with Gates Cambridge on my PhD research at the [Gates Cambridge website](https://www.gatescambridge.org/about/news/towards-a-netflix-for-cancer-treatment/). 
+I spoke about my research in an interview with Gates Cambridge. Read more on the [Gates Cambridge website](https://www.gatescambridge.org/about/news/towards-a-netflix-for-cancer-treatment/). 
 
