@@ -4,4 +4,4 @@ excerpt: "A software platform that enables researchers to test and deploy image-
 collection: portfolio
 ---
 
-Funded by Cancer Research UK (CRUK) Cancer Tech Accelerator grant
+Development supported by Cancer Research UK [SEBPCTA-2024/100001].
