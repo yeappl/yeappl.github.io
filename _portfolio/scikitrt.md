@@ -1,11 +1,9 @@
 ---
 title: "Scikit-rt"
-excerpt: "[Scikit-rt](https://scikit-rt.github.io/scikit-rt/) is a Python toolkit for loading, plotting, and analysing radiotherapy data in DICOM and NIfTI formats. It includes image registration via elastix and NiftyReg, single- and multi-atlas segmentation, and region-of-interest (ROI) comparisons. <br/><img src='[/images/500x300.png](https://github.com/user-attachments/assets/f3a438a8-d183-4c31-9624-1c780bc42ca6)'>"
+excerpt: "[Scikit-rt](https://scikit-rt.github.io/scikit-rt/) is a Python toolkit for loading, plotting, and analysing radiotherapy data in DICOM and NIfTI formats. It includes image registration via elastix and NiftyReg, single- and multi-atlas segmentation, and region-of-interest (ROI) comparisons. <br/><img src='/images/scikitrt.png'>"
 collection: portfolio
 ---
 
-<img width="575" alt="image" src="https://github.com/user-attachments/assets/f3a438a8-d183-4c31-9624-1c780bc42ca6" />
-<br>
 [Scikit-rt](https://scikit-rt.github.io/scikit-rt/) is a Python toolkit for loading, plotting, and analysing radiotherapy data in DICOM and NIfTI formats. It includes image registration via elastix and NiftyReg, single- and multi-atlas segmentation, and region-of-interest (ROI) comparisons. <br>
 <br>
 Contributor to Image Registration functions. <br>
