@@ -29,6 +29,7 @@ Grants
 
 Honors & Awards
 -----
+* Cambridge & East England #21toWatch Award, Cofinitive
 * NUS Development Grant &  Young NUS Fellowship, National University of Singapore
 * Turing Enrichment Scheme Award, The Alan Turing Institute UK
 * Gates Cambridge Scholarship (PhD), Bill & Melinda Gates Foundation
