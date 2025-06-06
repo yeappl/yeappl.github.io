@@ -40,4 +40,4 @@ Honors & Awards
 
 Certifications
 -----
-* International Medical Physics Certification Board (IMPCB) Part 1 - Radiation Oncology
+* International Medical Physics Certification Board (IMPCB) Part 1 & II - Radiation Oncology
