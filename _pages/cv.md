@@ -40,4 +40,4 @@ Honors & Awards
 
 Certifications
 -----
-* International Medical Physics Certification Board (IMPCB) Part 1 & II - Radiation Oncology
+* Diplomate of the International Medical Physics Certification Board (DIMPCB) - Radiation Oncology
