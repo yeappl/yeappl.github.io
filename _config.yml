@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile2.jpg"
   name             : "Ping Lin Yeap"
-  pronouns         : <i>DIMPCB</i>  
-  bio              : "PhD researcher & Gates Cambridge Scholar"
-  location         : "Cambridge, UK"
-  employer         : "University of Cambridge"
+  pronouns         : <i>PhD, DIMPCB</i>  
+  bio              : "Senior Medical Physics & Gates Cambridge Scholar"
+  location         : "Singapore"
+  employer         : "National Cancer Centre Singapore"
   uri              : # URL
   email            : "ply21@cam.ac.uk" 
 
